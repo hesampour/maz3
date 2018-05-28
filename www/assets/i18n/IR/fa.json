@@ -1,0 +1,21 @@
+{
+  "general": {
+    "maz": "گروه آموزشی ماز",
+    "home": "خانه",
+    "menu": {
+      "dashboard": "خانه",
+      "studentGroups": "گروه های دانش آموزی",
+      "exams": "آزمون ها",
+      "banks": "بانک سوالات",
+      "users": "کاربران"
+    }
+  },
+  "dashboard": {
+    "calender": "تقویم",
+    
+    "acquisition_channels": "Acquisition Channels",
+    "popular_app": {
+      "super_app": "Super App"
+    }
+}
+}
